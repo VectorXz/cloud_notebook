@@ -1,0 +1,8 @@
+gem update --system
+gem install github-linguist
+export GEM_HOME=$HOME/gems
+export PATH=$HOME/gems/bin:$PATH
+pip3 install python-magic
+pip3 install comment_parser
+pip3 install ghlinguist
+pip3 install gitpython

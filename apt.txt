@@ -3,3 +3,5 @@ libssl-dev
 libicu-dev
 zlib1g-dev
 libcurl4-openssl-dev
+libmagic1
+python3-magic
