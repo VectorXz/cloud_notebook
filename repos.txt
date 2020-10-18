@@ -1,0 +1,7 @@
+https://github.com/jeanralphaviles/comment_parser
+https://github.com/facebook/react
+https://github.com/apache/maven
+https://github.com/mockito/mockito
+https://github.com/PhilJay/MPAndroidChart
+https://github.com/google/guava
+https://github.com/spring-projects/spring-framework
